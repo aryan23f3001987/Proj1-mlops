@@ -145,3 +145,5 @@
 aryan030803
 Bwj9n1OxGIzzDN3I
 mongodb+srv://aryan030803:<db_password>@cluster0.biv89yv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+$env:MONGODB_URL="mongodb+srv://aryan030803:Bwj9n1OxGIzzDN3I@cluster0.biv89yv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+set "MONGODB_URL=mongodb+srv://aryan030803:Bwj9n1OxGIzzDN3I@cluster0.biv89yv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"

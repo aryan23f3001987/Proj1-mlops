@@ -157,3 +157,6 @@ set AWS_SECRET_ACCESS_KEY=dfh3JE7OabGqxPE8OFzzWUSTGUtpeS/fynqLKJNG
 
 echo %AWS_ACCESS_KEY_ID%
 echo %AWS_SECRET_ACCESS_KEY%
+
+ecr name : vehicleproj
+ecr REPO Uri : 207567775621.dkr.ecr.us-east-1.amazonaws.com/vehicleproj

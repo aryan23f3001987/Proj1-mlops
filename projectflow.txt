@@ -147,3 +147,13 @@ Bwj9n1OxGIzzDN3I
 mongodb+srv://aryan030803:<db_password>@cluster0.biv89yv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 $env:MONGODB_URL="mongodb+srv://aryan030803:Bwj9n1OxGIzzDN3I@cluster0.biv89yv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 set "MONGODB_URL=mongodb+srv://aryan030803:Bwj9n1OxGIzzDN3I@cluster0.biv89yv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+
+
+ACCESS KEY : AKIATAVAA46CYH4QS4GJ
+SECRET ACCESS KEY : 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
+
+set AWS_ACCESS_KEY_ID=AKIATAVAA46CYH4QS4GJ
+set AWS_SECRET_ACCESS_KEY=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
+
+echo %AWS_ACCESS_KEY_ID%
+echo %AWS_SECRET_ACCESS_KEY%

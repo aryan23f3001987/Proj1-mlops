@@ -160,3 +160,4 @@ echo %AWS_SECRET_ACCESS_KEY%
 
 ecr name : vehicleproj
 ecr REPO Uri : 207567775621.dkr.ecr.us-east-1.amazonaws.com/vehicleproj
+2nd try
